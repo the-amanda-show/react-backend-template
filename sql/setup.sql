@@ -30,7 +30,7 @@ INSERT into users (first_name, last_name, email, password_hash) values
 
 INSERT into todos (user_id, location, todo, description, completed) values
 ('1','police station','Interigate Penguin','DID HE KILL MY PARENTS?!?!?!?!?!','false'),
-('2','batcave','clean batcave','Clean up bat poop from ALL the stuff the poop on','false'),
+('2','batcave','clean batcave','Clean up bat poop from ALL the stuff they poop on','false'),
 ('3','home','feed cats','Make sure my sweeties are nice and fed','false'),
 ('4','office','help Riddler','Find out what he did *FOR JOKER*','false'),
 ('1','arkam asylum','drop off Riddler','Leave Riddler for the damage he caused','false'),
